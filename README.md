@@ -1,3 +1,5 @@
-# Stream Template Repository
+# CE07SHSP-SP001-06-SPKIRJ000-recovered_cspp-spkir_abj_cspp_instrument_recovered
 
-This repository is a template for all the other repositories.
+Stream Type: Science<br>
+Stream Content: Data Products<br>
+Instrument Group Code: SPKIR<br>
